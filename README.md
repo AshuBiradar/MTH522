@@ -12,7 +12,8 @@ K-means Clustering From Scratch In Python
 Data
 For this project on k-means clustering there are 2 data sets (downloadable as .csv files):
 
-Locations of political violence in India, 1/1/2016 through 1/1/2024
-Locations of police shootings in the continental United States
+1.Locations of political violence in India, 1/1/2016 through 1/1/2024.
+2.Locations of police shootings in the continental United States.
+
 Calculating Distance given latitude and longitude
 Geopy can calculate geodesic distance between two points using the geodesic distance or the great-circle distance, with a default of the geodesic distance available as the function geopy.distance.distance.
